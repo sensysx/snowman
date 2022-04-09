@@ -2,3 +2,5 @@ bot-token: '1234'
 
 wake-channel: '1234'
 
+whitelisted: []
+
