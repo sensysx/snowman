@@ -1,0 +1,7 @@
+name: Snowman-API
+version: '${project.version}'
+main: me.sensys.snowman.Main
+api-version: 1.18
+authors: [ sensysx ]
+description: fuck around bot for discord.gg/snowhaze || CONCEPT ||
+website: solo.to/sensysx
